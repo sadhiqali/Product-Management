@@ -1,9 +1,5 @@
 # Product Management
-Product Management is creation of a business structure strategy that supports and manages all the activies related to building, shipping, marketing and selling a product.
-Product managers are responsible for building and bringing products to market. They are the organizational muscle that ensures developers, management, and stakeholders are all moving the product forward
-Providing necessary support to client/customers and stakeholders
-Providing insights for improvements based on market demand to improve business goals
-Involves in Product development, product market launch and continual Product support & Improvements
+Product Management is creation of a business structure strategy that supports and manages all the activies related to building, shipping, marketing and selling a product. Product managers are responsible for building and bringing products to market. They are the organizational muscle that ensures developers, management, and stakeholders are all moving the product forward. Providing necessary support to client/customers and stakeholders. Providing insights for improvements based on market demand to improve business goals. Involves in Product development, product market launch and continual Product support & Improvements
 
 ## Objectives of Product Managers
 - Vision (Why): Build Products, Goals, Customer Benefits
@@ -62,11 +58,11 @@ Business selling directly to customers or end users
 ## Frameworks
 PESTEL Analysis: Political - Economical - Social - Technological - Environmental - Legal
 Key Points:
-Political factors can play a major role with International businesses specifically
-Economical factors are game-changers because the finances can make or break the deal subjected to internal or external factors of the government.
-Social factor gets one a quantity or focusses on the traffic. JIO targets the Indian market by understanding the necessity/demand of the majority.
-Technology is all about what medium you choose to target, acquire and deliver (TAD)
-One needs to have information on the legal formalities and the do’s and don’ts to avoid adverse effects on the business. Legal Factor is directly proportional to the Political factor in 7 of every 10 case
+- Political factors can play a major role with International businesses specifically
+- Economical factors are game-changers because the finances can make or break the deal subjected to internal or external factors of the government.
+- Social factor gets one a quantity or focusses on the traffic. JIO targets the Indian market by understanding the necessity/demand of the majority.
+- Technology is all about what medium you choose to target, acquire and deliver (TAD)
+- One needs to have information on the legal formalities and the do’s and don’ts to avoid adverse effects on the business. Legal Factor is directly proportional to the Political factor in 7 of every 10 case
 
 Prioritization in product management is the disciplined process of evaluating the relative importance of work, ideas, and requests to eliminate wasteful practices and deliver customer value in the quickest possible way, given a variety of constraints.
 Prioritization Techniques
